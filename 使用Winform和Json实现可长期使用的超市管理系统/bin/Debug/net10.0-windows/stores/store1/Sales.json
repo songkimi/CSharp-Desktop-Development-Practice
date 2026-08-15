@@ -1,0 +1,567 @@
+{
+  "NextOrderName": 12,
+  "Sales": [
+    {
+      "OrderId": 1,
+      "SaleTime": "2026-08-13T17:04:33.2602329+08:00",
+      "Price": 10.00,
+      "Items": []
+    },
+    {
+      "OrderId": 2,
+      "SaleTime": "2026-08-13T17:15:23.7348243+08:00",
+      "Price": 13.50,
+      "Items": []
+    },
+    {
+      "OrderId": 3,
+      "SaleTime": "2026-08-13T17:15:39.9204234+08:00",
+      "Price": 5999.00,
+      "Items": []
+    },
+    {
+      "OrderId": 4,
+      "SaleTime": "2026-08-13T17:16:08.5454603+08:00",
+      "Price": 10.00,
+      "Items": []
+    },
+    {
+      "OrderId": 5,
+      "SaleTime": "2026-08-13T17:25:44.6136317+08:00",
+      "Price": 13.50,
+      "Items": []
+    },
+    {
+      "OrderId": 6,
+      "SaleTime": "2026-08-13T17:34:13.6720147+08:00",
+      "Price": 12.00,
+      "Items": [
+        {
+          "GoodsId": "e7a26a7edd2049478842f7b152598757",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "0d03dc6eac744d7eb9a1eabfb0e7cbd2",
+          "GoodsName": "\u96EA\u78A7",
+          "UnitPrice": 3.5
+        },
+        {
+          "GoodsId": "c128b6358768445cb8696c5b80fa15b3",
+          "GoodsName": "\u96EA\u78A7",
+          "UnitPrice": 3.5
+        }
+      ]
+    },
+    {
+      "OrderId": 7,
+      "SaleTime": "2026-08-13T17:38:17.1454944+08:00",
+      "Price": 6009.00,
+      "Items": [
+        {
+          "GoodsId": "d3b22958dcf240d794af19f2052cf34d",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "330bb0f16ca147cfb996583c64aa3723",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "3030913c3868458294e93e2ba17a1586",
+          "GoodsName": "\u8DD1\u6B65\u673A",
+          "UnitPrice": 5999
+        }
+      ]
+    },
+    {
+      "OrderId": 8,
+      "SaleTime": "2026-08-13T17:38:43.6537643+08:00",
+      "Price": 18.50,
+      "Items": [
+        {
+          "GoodsId": "1ce390948d904d539a4de2518b08fbfa",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "b39c7972c0de4d7893aabf40de4dc8a2",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "fa23315e44b447269dbea4ca360c720b",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "fa48e9eae1b64fea96ade9a6d7a68281",
+          "GoodsName": "\u96EA\u78A7",
+          "UnitPrice": 3.5
+        }
+      ]
+    },
+    {
+      "OrderId": 9,
+      "SaleTime": "2026-08-15T15:35:46.7587026+08:00",
+      "Price": 380.00,
+      "Items": [
+        {
+          "GoodsId": "b9bb2170dd724de58c79c16d83af30ad",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "f72abac1c0af42a0bf05da66897ac139",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "24e97f3809a54fa2b6a5c6a25a9062dd",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "ba9fb0393ae046ca8a19a57cbe6e9e0c",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "537fcd4384934ccfb5072c57e7d8139f",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "9c77ea5e59804cf883faa48b30164292",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "dbfb0b7d0fa3426d916911d3f1f37484",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "1b12114928b2407dab08f9806f75ca54",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "2034208a338249348324c3376afa0b7b",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "fe5d15448b1241bda12ecdbf7e239185",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "6a3e2d1d73db426386bd9b6754d01fd4",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "91d2dc276a99446cb4dd8bacdcacbf40",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "6f950790b65f4f11a4d48c48f25375ec",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "1488938cf9094a58b196ef989ded4c98",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "a90a9ce984c347978c10dd066484f4fd",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "6e240950e70944319196fbe3b64b85a2",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "4029ca546c2a4706b7edd1c64e07fe7a",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "5c3137e2bc7646ca9be08c2f2f5f5ee7",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "897eccc11a2d462e8cedb50229dbd2f3",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "d4a8a3d213c64f0db37da482f10529b6",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "da5d1563b4d944659812b42a9c4f385a",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "51824e22c0804d709f00dce834ec5fce",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "bac8eb47a7ca4769ae0ce84cb8fa04aa",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "00e71880960c48089cf21948135802f2",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "9f54a92a6a594c9ea2874a27abf1b079",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "56c3c8b456dd4aa6a896737dbfa7b8a8",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "3cf0bca4767241e5a8574287d9ed8736",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "3202d9439bcb4444a9c1525139287f34",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "06a339e5943b4acd9cea446a2516e6ad",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "06e3716e53d342f6a7a04504dcd99758",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "9de9d6a42aaa4cf896041909541a3ad4",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "9ee3991aac4847358162a460817a71f8",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "a58c17562fad4d819ecfc049448e0bf0",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "2912b1fece5f44308691e460f87d60f6",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "9a41f868295f4400b7d55c921f252756",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "a48ae50ab70040b5b9fb4a04dea45d1d",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "47290b523ecd4744a9788308871f09a9",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "a9e733137ea349779f7f01c559294685",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "e137df42ecd2401eb7aad832da8168c8",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "7f9737a2483f4b8e9495cd75cbfcf159",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "ff5b3d99f2d54a728d6e0d0fe730ff76",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "c4df8316b0544f068f916bbd89d8e591",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "8175ea75f8d340bb99156585ab975be8",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "281176c73f0743988b8d927cd8b24ac3",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "11bb6d85ceb74f029820a662654ffbd2",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "944c77c4566b4deeb5357ff8c84a73ce",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "eab05b981011436d94db5ec58f9331a7",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "ab2722197c3e4f7398c1ddd15d9fb6b8",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "23c11227602b467090c2db68c1126280",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "8a397db32f1645b5b43583933ffda2b0",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "ac0dc5cbe76c4c86aebe87481e194e88",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "a791c6c5e1f04c5d8a6a670f46e6e073",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "c3bff2f9b65c4aadb1e0fd07d587f234",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "f7a1731b1196466faa8066e5a6810d49",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "fa4a4dbba72345569f088c5ee705a365",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "396b5578572341a0b88f692954b0abc6",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "2f5f202f0f564567948d9d69008c0c42",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "cfec24db96fc4f7c8c824401a71a5b73",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "eadbc6fcf7904da698e11df26b149d40",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "d4125a2560b04df49105fc6355eeeac1",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "7ab3e59bece242fba21b2b7ec6f16bba",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "b1363d37bb664ef194fb3a80491b550c",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "589c818248b94bddb314973f5b8f9b03",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "856ddbe16c4b4f9d9c7d7045332b7e1f",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "5f750958f6d14df185bd688ed1f8e304",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "89b05ee750ba43f88117ec7e4afbe219",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "2cf43e7304a14b8b9ef59e04d81aa65d",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "166b72ec79aa4900b72b614074209687",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "64560326228e472cb96f6e9a5e799046",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "714583bb64674e42a27cd00e1d2834fd",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "dfc2a77768bc49bb905e766c1a06fdc4",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "37c98769652a4c6185afaf09256804e2",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "0537fdc42e9d44f5822a3837d8ee458f",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "7f47f5fa5f524fd0b2ada7b82bb50a76",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "5ea566f758064739baea2c5a33b2382b",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        },
+        {
+          "GoodsId": "6e8c21583e344dc59dfd99ba59b06c77",
+          "GoodsName": "\u5DE7\u4E50\u5179",
+          "UnitPrice": 5
+        }
+      ]
+    },
+    {
+      "OrderId": 10,
+      "SaleTime": "2026-08-15T15:42:04.4097335+08:00",
+      "Price": 6014.00,
+      "Items": [
+        {
+          "GoodsId": "92f134ddb90c41d6978bd87f61837dcf",
+          "GoodsName": "\u8DD1\u6B65\u673A",
+          "UnitPrice": 5999
+        },
+        {
+          "GoodsId": "ce4b34aaa27d4ca088618d41e291950c",
+          "GoodsName": "GoodsCard",
+          "UnitPrice": 5.00
+        },
+        {
+          "GoodsId": "7015475eef3746019d4b3a4f9981ecb5",
+          "GoodsName": "GoodsCard",
+          "UnitPrice": 5.00
+        },
+        {
+          "GoodsId": "256c64f61ca04484ba9f5f07ed8f87da",
+          "GoodsName": "GoodsCard",
+          "UnitPrice": 5.00
+        }
+      ]
+    },
+    {
+      "OrderId": 11,
+      "SaleTime": "2026-08-15T15:45:55.8755652+08:00",
+      "Price": 23.50,
+      "Items": [
+        {
+          "GoodsId": "687c67f9a07d456497c6a124ee285285",
+          "GoodsName": "\u96EA\u78A7",
+          "UnitPrice": 3.5
+        },
+        {
+          "GoodsId": "3c46bee1ac71453196b089bac4820df8",
+          "GoodsName": "\u96EA\u78A7",
+          "UnitPrice": 3.5
+        },
+        {
+          "GoodsId": "3f1a65c01b2f49848554bd38fc5e9dc4",
+          "GoodsName": "\u96EA\u78A7",
+          "UnitPrice": 3.5
+        },
+        {
+          "GoodsId": "b6c7eda7930240cdbc2dc5d51affb277",
+          "GoodsName": "\u96EA\u78A7",
+          "UnitPrice": 3.5
+        },
+        {
+          "GoodsId": "609a5502a7fc43ef8699cd649ff64030",
+          "GoodsName": "\u96EA\u78A7",
+          "UnitPrice": 3.5
+        },
+        {
+          "GoodsId": "853251d4349d4feaafa178822e6203df",
+          "GoodsName": "\u91CE\u751F\u72D7\u5976",
+          "UnitPrice": 2
+        },
+        {
+          "GoodsId": "7e4ff55276024053bf8e90c068d49808",
+          "GoodsName": "\u91CE\u751F\u72D7\u5976",
+          "UnitPrice": 2
+        },
+        {
+          "GoodsId": "6ca8874c2047409d83619fa18cebaa70",
+          "GoodsName": "\u91CE\u751F\u72D7\u5976",
+          "UnitPrice": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|d:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\showcustomerbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\showcustomerbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\showcustomerbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\showcustomerbuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|d:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\payform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\payform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\payform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\payform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|d:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\nowgoodsnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\nowgoodsnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\goodscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\goodscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|d:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\golbaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\golbaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|d:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\adminsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\adminsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|d:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|d:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\datastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\datastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|d:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\adminsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\adminsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|d:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u521B\u5EFA\u8D85\u5E02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u521B\u5EFA\u8D85\u5E02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u521B\u5EFA\u8D85\u5E02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u521B\u5EFA\u8D85\u5E02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|d:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\salescard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\salescard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\salescard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\salescard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|d:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\goodscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\goodscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|d:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|d:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\customermode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\customermode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\customermode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\customermode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|d:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\addnewgoodsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\addnewgoodsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\addnewgoodsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4782627C-5EFC-B459-FBD9-A52261856D17}|\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:\u4F7F\u7528winform\u548Cjson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\addnewgoodsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NowGoodsNum.cs",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\NowGoodsNum.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\NowGoodsNum.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\NowGoodsNum.cs",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\NowGoodsNum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T10:31:56.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GolbalData.cs",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\GolbalData.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\GolbalData.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\GolbalData.cs",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\GolbalData.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADwvwsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T10:05:18.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\AppConfig.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\AppConfig.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\AppConfig.cs",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\AppConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T09:58:43.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataStorage.cs",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\DataStorage.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\DataStorage.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\DataStorage.cs",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\DataStorage.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAuwIcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T09:41:58.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\Sales.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\Sales.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\Sales.cs",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\Sales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:31:13.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminSetting.cs",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\AdminSetting.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\AdminSetting.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\AdminSetting.cs",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\AdminSetting.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:26:55.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowCustomerBuy.cs",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\ShowCustomerBuy.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\ShowCustomerBuy.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\ShowCustomerBuy.cs",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\ShowCustomerBuy.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:31:54.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowCustomerBuy.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\ShowCustomerBuy.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\ShowCustomerBuy.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\ShowCustomerBuy.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\ShowCustomerBuy.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:31:52.94Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SalesCard.cs",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\SalesCard.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\SalesCard.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\SalesCard.cs",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\SalesCard.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:31:40.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SalesCard.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\SalesCard.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\SalesCard.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\SalesCard.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\SalesCard.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:31:31.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PayForm.cs",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\PayForm.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\PayForm.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\PayForm.cs",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\PayForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:30:43.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PayForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\PayForm.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\PayForm.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\PayForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\PayForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:30:42.925Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GoodsCard.cs",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\GoodsCard.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\GoodsCard.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\GoodsCard.cs",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\GoodsCard.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:30:07.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GoodsCard.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\GoodsCard.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\GoodsCard.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\GoodsCard.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\GoodsCard.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:30:06.228Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\Form1.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\Form1.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\Form1.cs",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\Form1.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:29:08.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\Form1.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\Form1.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:29:07.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerMode.cs",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\CustomerMode.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\CustomerMode.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\CustomerMode.cs",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\CustomerMode.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAALUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:28:03.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerMode.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\CustomerMode.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\CustomerMode.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\CustomerMode.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\CustomerMode.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:28:01.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminSetting.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\AdminSetting.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\AdminSetting.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\AdminSetting.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\AdminSetting.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:26:53.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddNewGoodsForm.cs",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\AddNewGoodsForm.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\AddNewGoodsForm.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\AddNewGoodsForm.cs",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\AddNewGoodsForm.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:25:33.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddNewGoodsForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\AddNewGoodsForm.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\AddNewGoodsForm.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\AddNewGoodsForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\AddNewGoodsForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:25:32.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "\u521B\u5EFA\u8D85\u5E02.cs",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u521B\u5EFA\u8D85\u5E02.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u521B\u5EFA\u8D85\u5E02.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u521B\u5EFA\u8D85\u5E02.cs",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u521B\u5EFA\u8D85\u5E02.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAuwNoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:22:50.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "\u521B\u5EFA\u8D85\u5E02.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u521B\u5EFA\u8D85\u5E02.cs",
+              "RelativeDocumentMoniker": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u521B\u5EFA\u8D85\u5E02.cs",
+              "ToolTip": "D:\\adrower\\vs2026\\project\\project\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u521B\u5EFA\u8D85\u5E02.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u4F7F\u7528Winform\u548CJson\u5B9E\u73B0\u53EF\u957F\u671F\u4F7F\u7528\u7684\u8D85\u5E02\u7BA1\u7406\u7CFB\u7EDF\\\u521B\u5EFA\u8D85\u5E02.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T08:22:48.027Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
